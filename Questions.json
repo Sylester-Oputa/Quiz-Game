@@ -1,0 +1,66 @@
+[
+    {
+    "question": "What is the name of the protagonist in the anime Naruto?",
+    "choice1": "Naruto Uzumaki",
+    "choice2": "Sasuke Uchiha",
+    "choice3": "Kakashi Hatake",
+    "choice4": "Itachi Uchiha",
+    "answer": 1
+},
+{
+    "question": "Sanji is a character in which anime?",
+    "choice1": "Naruto",
+    "choice2": "One Piece",
+    "choice3": "Gintama",
+    "choice4": "Inuyasha",
+    "answer": 2
+},
+{
+    "question": "What is the name of the main villain in the series Hunter x Hunter?",
+    "choice1": "Chrollo Lucifer",
+    "choice2": "Hisoka",
+    "choice3": "Togashi",
+    "choice4": "Meruem",
+    "answer": 1
+},
+{
+    "question": "Which of this is NOT a messed up anime?",
+    "choice1": "Shojo tsubaki",
+    "choice2": "Banana Fish",
+    "choice3": "Boku no Pico",
+    "choice4": "Devilman Crybaby",
+    "answer": 2
+},
+{
+    "question": " What is the name of the character in Naruto Shippuden who is the leader of the Akatsuki?",
+    "choice1": "Nagato",
+    "choice2": "Itachi Uchiha",
+    "choice3": "Kisame Hoshigaki",
+    "choice4": "Pain",
+    "answer": 4
+},
+{
+    "question": "What is the title of the first episode of the anime Attack on Titan?",
+    "choice1": "To You, in 2000 Years: The Fall of Shiganshina",
+    "choice2": "Smoke Signal",
+    "choice3": "A Dim Light Amid Despair",
+    "choice4": "The World the Girl Saw",
+    "answer": 1
+},
+{
+    "question": "Who is the main female protagonist in My Hero Academia?",
+    "choice1": "Uraraka Ochako",
+    "choice2": "Tsuyu Asui",
+    "choice3": "Momo Yaoyorozu",
+    "choice4": "Mineta Minoru",
+    "answer": 1
+},
+{
+    "question": "Who is the king of the giants in One Piece?",
+    "choice1": "Big Mom",
+    "choice2": "Kaido",
+    "choice3": "Whitebeard",
+    "choice4": "Luffy",
+    "answer": 2
+}
+]
